@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Olatunji Daniel Opeyemi. A software developer from Ibadan, Nigeria 
+- 👋 Hi, I’m Olatunji Daniel Opeyemi. A web developer based in Canada 
 - 👀 I’m interested in Mobile App with Flutter
-- 🌱 I’m currently learning Spring Boot
+- 🌱 I have developed various web applications both small scale and large scale
 - 💞️ I’m looking to collaborate on Flutter
 - 📫 How to reach me: olatunjidaniel19@gmail.com 
 
